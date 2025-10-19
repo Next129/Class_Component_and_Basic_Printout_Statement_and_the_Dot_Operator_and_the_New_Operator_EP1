@@ -1,2 +1,2 @@
 # Class_Component_and_Basic_Printout_Statement_and_the_Dot_Operator_and_the_New_Operator_EP1
-aa
+A detailed examination of class components, basic print statements, the dot operator, and the new operator demonstrates their functionality and application. Using the properties of a rectangle as a concrete example, participants will gain the clearest understanding of object creation, member access, and output operations in programming.
